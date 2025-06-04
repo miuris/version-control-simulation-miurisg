@@ -13,7 +13,7 @@ In a document or Markdown file, write a reflection of approximately 300 words, a
    - I did make a modification for the footer branch by adding a header in the footer section
    - saved in vs code, staged and committed the updates
    - pushed to main with, git push -u origin main, command
-2. 
+2.How you handled the merge conflict?
    - 
 4. 
 How the pull request process helped you ensure code quality and collaboration.
