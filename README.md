@@ -5,8 +5,8 @@ Instructions:
 In a document or Markdown file, write a reflection of approximately 300 words, addressing the following:
 
 1. List the steps you took to create and manage branches.
-   - In order to create a branch: I first
-   - ran the, git checkout -b feature/header and the feature/footer, command for branches
+  - In order to create a branch: I first
+  - ran the, git checkout -b feature/header and the feature/footer, command for branches
    - I created a boilerpoint for the index.html file
    - Went to W3 schools website to research for footer template and added to index.html file
    - saved changes in VS code editor, staged and commited the updates
